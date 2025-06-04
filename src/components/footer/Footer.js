@@ -9,15 +9,27 @@ function Footer() {
         <img src={my_logo} className='w-[70px] h-[70px] rounded-full' alt='my_logo'/>
           <div className='flex flex-col'>
            <div className="flex gap-4">
-                <span className="bannerIcon">
-                    <FaFacebookF />
-                </span>
-                <span className="bannerIcon">
-                    <FaTwitter />
-                </span>
-                <span className="bannerIcon">
-                    <FaLinkedinIn />
-                </span>
+                <a 
+                  href='https://www.facebook.com/michael.niva.1'
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bannerIcon">
+                  <FaFacebookF/>
+                </a>
+                <a 
+                  href='https://x.com/m_nivall'
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bannerIcon">
+                  <FaTwitter/>
+                </a>
+                <a 
+                  href='https://www.linkedin.com/in/michael-nivah-b21677274/'
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bannerIcon">
+                  <FaLinkedinIn/>
+                </a>
             </div>
             <div>
               <ul className='flex flex-col gap-4 font-titleFont font-medium py-6 overflow-hidden'>
@@ -33,7 +45,7 @@ function Footer() {
                 </li>
                 <li>
                  <span className="w-full text-md cursor-pointer">
-                    Watsapp: +254745445459
+                    Watsapp: +2547 454 454 59
                   </span>
                 </li>
               </ul>

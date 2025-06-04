@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className='w-full h-[70px] sticky pr-4 top-0 z-50 bg-bodyColor max-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600'>
       <div>
-        <img src={my_logo} className='w-[70px] h-[70px] rounded-full' alt='my_logo'/>
+        <img src={my_logo} className='w-[60px] h-[60px] rounded-full' alt='my_logo'/>
       </div>
       <div>
         <ul className='hidden mdl:inline-flex item-center gap-6 lg:gap-10'>  

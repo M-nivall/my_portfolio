@@ -92,7 +92,7 @@ function Testimonial() {
   return (
     <section id='testimonial' className='w-full py-20 border-b-[1px] border-b-black'>
        <div className='flex justify-center items-center text-center'>
-              <Title title="WHAT CLIENTS SAY"des="Testimonial"/>
+              <Title title="WHAT CLIENTS SAY"des="Testimonials"/>
         </div>
         <div className='max-w-6xl max-auto'>
           <Slider {...settings}>
@@ -111,7 +111,7 @@ function Testimonial() {
                     </p>
                         <h3 className="text-2xl font-bold">David Murithi Kaje </h3>
                     <p className="text-base tracking-wide text-gray-500">
-                          Computer Science Lecturer
+                          Computer Science Department
                     </p>
               </div>
               </div>
@@ -122,7 +122,7 @@ function Testimonial() {
                   <div className='flex flex-col justify-between lgl:items-center py-6 border-b-2 border-b-gray-900'>
                     <div>
                     <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
-                        Innovators Club Member.
+                        KeMU Innovators Club.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
                         From - Jan 3, 2021 - Aug 30, 2024
@@ -158,9 +158,9 @@ function Testimonial() {
                     <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                           Kakamega Revenue Agency
                     </p>
-                        <h3 className="text-2xl font-bold">Christopher Ombuya</h3>
+                        <h3 className="text-2xl font-bold">Habiba Litunya</h3>
                     <p className="text-base tracking-wide text-gray-500">
-                          Chief Revenue Officer
+                          ICT Officer
                     </p>
               </div>
               </div>
@@ -174,7 +174,7 @@ function Testimonial() {
                         Network Administrator.
                       </h3>
                       <p className="text-base text-gray-400 mt-3">
-                        From - October 27, 2023 - Dec 30, 2023
+                        From - October 27, 2023 - Aug 30, 2024
                       </p>
                     </div>
                     <div className="text-yellow-500 flex gap-1">

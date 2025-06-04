@@ -14,9 +14,9 @@ function Education() {
    </div>
    <div className='mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-black border-opacity-30 flex flex-col gap-10'>
     <ResumeCard
-      title="BCs in Computer Science"
-      subTitle="Kenya Mehodist University(2021-2024)"
-      result="3.58/4"
+      title="Bcs in Computer Science"
+      subTitle="Kenya Methodist University(2021-2024)"
+      result="3.25/4"
       des="Studied barchelor of degree in Computer Information Systems at Kenya Methodist University
       and scored Second Class Owner Upper Division."
     />

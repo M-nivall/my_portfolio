@@ -13,8 +13,8 @@ function ContactLeft() {
                 />
                <div className="flex flex-col gap-4">
                     <h3 className="text-3xl font-bold text-designColor">@Michael Nivall</h3>
-                    <p className="text-lg font-normal text-gray-400">
-                    Front End Developer
+                    <p className="text-lg text-bold font-normal text-gray-400">
+                    Full Stack Developer
                     </p>
                     <p className="text-base text-gray-400 tracking-wide">
                     Driven by a relentless pursuit of Excellence in the ever-evolving landscape of technology,
@@ -22,7 +22,7 @@ function ContactLeft() {
                     for problem-solving and a commitment to continous learning.
                     </p>
                     <p className="text-base text-gray-400 flex items-center gap-2">
-                    Phone: <span className="text-lightText">+254 745445459</span>
+                    Phone: <span className="text-lightText">+2547 454 454 59</span>
                     </p>
                     <p className="text-base text-gray-400 flex items-center gap-2">
                     Email: <span className="text-lightText">nivahmichael@gmail.com</span>

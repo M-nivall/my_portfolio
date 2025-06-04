@@ -28,11 +28,11 @@ const LeftBanner = () => {
             cursorColor="#ff014f"/>
         </h2>
         <p className='text-base font-bodyFont leading-6 tracking-wide'>
-        As an emerging software engineer, I am passionate about leveraging technology to solve real-world problems.
-         Proficient in various programming languages and with a solid foundation in database management,
-          web development, and networking, I thrive in dynamic environments where creativity and innovation
+         As an emerging software engineer, I am passionate about leveraging technology to solve real-world problems.
+         Proficient in programming with a solid foundation in Mobile App Development,
+          Web Development, and Networking, I thrive in dynamic environments where creativity and innovation
            are valued. With excellent communication and problem-solving skills, I am eager to contribute my
-            technical expertise and enthusiasm for learning to a collaborative team..
+            technical expertise and enthusiasm for learning to a collaborative team...
         </p>
     </div>
     <div className='flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between'>
@@ -41,21 +41,33 @@ const LeftBanner = () => {
         Find me in
       </h2>
       <div className='flex gap-4'>
-        <span className='bannerIcon'>
+        <a 
+          href='https://www.facebook.com/michael.niva.1'
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bannerIcon">
           <FaFacebookF/>
-        </span>
-        <span className='bannerIcon'>
+        </a>
+        <a 
+          href='https://x.com/m_nivall'
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bannerIcon">
           <FaTwitter/>
-        </span>
-        <span className='bannerIcon'>
+        </a>
+        <a 
+          href='https://www.linkedin.com/in/michael-nivah-b21677274/'
+          target="_blank"
+          rel="noopener noreferrer"
+          className="bannerIcon">
           <FaLinkedinIn/>
-        </span>
+        </a>
       </div>
       </div>
       <div>
       <div>
       <h2 className='text-base uppercase font-titleFont mb-4'>
-        BEST SKILLS ON
+        BEST SKILLS IN
       </h2>
       <div className='flex gap-4'>
         <span className='bannerIcon'>
