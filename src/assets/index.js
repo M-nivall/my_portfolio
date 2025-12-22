@@ -5,6 +5,8 @@ import fastFood from "./images/projects/fastFood.jpg";
 import movieDiscovery from "./images/projects/movieDiscovery.jpg";
 import kuonaTrust from "./images/projects/kuonaTrust.jpg";
 import laptopStore from "./images/projects/laptopStore.jpg";
+import nairobiBeauty from "./images/projects/nairobiBeauty.jpg";
+import lotusFertility from "./images/projects/lotusFertility.jpg";
 import payroll from "./images/projects/payroll.png";
 import testimonialOne from "./images/testimonial/testimonialOne.png";
 import testimonialTwo from "./images/testimonial/testimonialTwo.png";
@@ -19,6 +21,8 @@ export {
     movieDiscovery,
     kuonaTrust,
     laptopStore,
+    nairobiBeauty,
+    lotusFertility,
     testimonialOne,
     testimonialTwo,
     quote,

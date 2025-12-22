@@ -1,7 +1,10 @@
 import { fastFood } from "../assets";
 import { movieDiscovery } from "../assets";
 import { laptopStore } from "../assets";
-import { kuonaTrust } from "../assets"; 
+import { kuonaTrust } from "../assets";  
+import { nairobiBeauty } from "../assets";
+import { lotusFertility } from "../assets";
+
 
 export const projects = [
   {
@@ -170,5 +173,41 @@ export const projects = [
   },
 },
 
-];
+{
+  id: "lotus-fertility-app",
+  title: "Lotus Fertility App",
+  shortDesc:
+    "A health-tech mobile platform supporting intended parents through the surrogacy journey.",
+  image: lotusFertility, // add asset
+  github: null,
+  live: null,
+  details: {
+    overview:
+      "A secure Android health-tech application that guides intended parents through the surrogacy process, including surrogate selection, medical screening, legal contracting, payments, and pregnancy progress tracking.",
+    features: [
+      "Surrogate mother browsing and selection",
+      "Medical screening and doctor appointment booking",
+      "Attorney selection and contract management",
+      "Secure payment processing",
+      "Pregnancy milestone and checkup tracking",
+      "Role-based access for parents, doctors, and legal professionals",
+      "Real-time notifications and updates",
+    ],
+    techStack: [
+      "Android Studio",
+      "Java",
+      "MVVM Architecture",
+      "Retrofit (REST APIs)",
+      "RecyclerView",
+      "Firebase Authentication",
+      "Firebase Cloud Messaging",
+      "XML Layouts",
+      "PHP Backend",
+      "MySQL Database",
+      "Secure Payment Integration",
+    ],
+    type: "Mobile Application",
+  },
+},
 
+];
