@@ -14,6 +14,7 @@ import testimonialThree from "./images/testimonial/testimonialThree.jpg";
 import testimonialFour from "./images/testimonial/testimonialFour.jpg";
 import quote from "./images/testimonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
+
 export {
     logo,
     bannerImg,
