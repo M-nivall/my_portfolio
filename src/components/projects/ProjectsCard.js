@@ -8,7 +8,7 @@ const ProjectsCard = ({ title, des, src, github, live, id }) => {
     <div className="w-full p-4 xl:px-12 rounded-lg shadow-shadowOne bg-gradient-to-r from-bodyColor to-[#202327] group hover:bg-gradient-to-b hover:from-gray-900 transition-colors duration-700">
       <div className="overflow-hidden rounded-lg">
         <img
-          className="w-full h-60 object-cover group-hover:scale-110 duration-300"
+          className="w-full h-60 object-contain group-hover:scale-110 duration-300"
           src={src}
           alt={title}
         />

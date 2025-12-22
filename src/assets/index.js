@@ -2,7 +2,7 @@ import logo from "./images/logo.png";
 import my_logo from "./images/my_logo.jpg";
 import bannerImg from "./images/bannerImg.png";
 import fastFood from "./images/projects/fastFood.jpg";
-import projectTwo from "./images/projects/projectTwo.jpg";
+import movieDiscovery from "./images/projects/movieDiscovery.jpg";
 import projectThree from "./images/projects/projectThree.jpeg";
 import payroll from "./images/projects/payroll.png";
 import testimonialOne from "./images/testimonial/testimonialOne.png";
@@ -15,7 +15,7 @@ export {
     logo,
     bannerImg,
     fastFood,
-    projectTwo,
+    movieDiscovery,
     projectThree,
     testimonialOne,
     testimonialTwo,

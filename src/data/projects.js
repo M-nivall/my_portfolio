@@ -1,6 +1,7 @@
 import { fastFood } from "../assets";
-import { projectTwo } from "../assets";
+import { movieDiscovery } from "../assets";
 import { projectThree } from "../assets";
+import { kuonaTrust } from "../assets"; // ← add image asset
 
 export const projects = [
   {
@@ -40,7 +41,7 @@ export const projects = [
     title: "Movie Discovery App",
     shortDesc:
       "A movie app that fetches latest movies and tracks trending searches.",
-    image: projectTwo,
+    image: movieDiscovery,
     github: "https://github.com/yourusername/movie-app",
     live: null,
     details: {
@@ -60,6 +61,40 @@ export const projects = [
         "TMDB API",
         "Appwrite",
         "Google Authentication",
+      ],
+      type: "Mobile Application",
+    },
+  },
+
+  // ✅ NEW PROJECT (Inserted after Movie App)
+  {
+    id: "kuona-trust-foundation",
+    title: "Kuona Trust Foundation",
+    shortDesc:
+      "A mobile platform for artists to showcase artwork, apply for exhibitions, and connect with donors.",
+    image: kuonaTrust,
+    github: null,
+    live: null,
+    details: {
+      overview:
+        "A mobile application built to empower artists by enabling them to showcase their artwork, apply for exhibitions, and connect with external donors and supporters.",
+      features: [
+        "Artist artwork showcase",
+        "Exhibition application system",
+        "Artist–donor connection platform",
+        "User authentication",
+        "Backend API integration",
+      ],
+      techStack: [
+        "Android Studio",
+        "Java",
+        "Volley (RequestQueue APIs)",
+        "RecyclerView",
+        "Adapters & Models",
+        "XML Layouts",
+        "PHP Backend",
+        "MySQL Database",
+        "Authentication",
       ],
       type: "Mobile Application",
     },
