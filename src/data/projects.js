@@ -132,4 +132,43 @@ export const projects = [
       type: "Web Application",
     },
   },
+
+  {
+  id: "nairobi-beauty-app",
+  title: "Nairobi Beauty App",
+  shortDesc:
+    "A beauty eCommerce and e-learning mobile application for products, classes, and certifications.",
+  image: nairobiBeauty, // add asset
+  github: null,
+  live: null,
+  details: {
+    overview:
+      "A comprehensive Android application that combines a beauty products marketplace with a learning management system, enabling users to shop, enroll in beauty courses, track learning progress, and earn certifications.",
+    features: [
+      "Beauty product eCommerce marketplace",
+      "Online booking of beauty classes",
+      "Learning progress tracking",
+      "Assignments, exams, and grading system",
+      "Online attendance tracking",
+      "Certification issuance after course completion",
+      "Secure authentication and payment processing",
+    ],
+    techStack: [
+      "Android Studio",
+      "Java",
+      "Retrofit (REST APIs)",
+      "RecyclerView & Adapters",
+      "Room Database",
+      "Material Design Components",
+      "XML Layouts",
+      "Payment Gateway Integration",
+      "PHP Backend",
+      "MySQL Database",
+      "Authentication & Authorization",
+    ],
+    type: "Mobile Application",
+  },
+},
+
 ];
+
