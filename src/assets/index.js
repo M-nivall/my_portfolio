@@ -4,7 +4,7 @@ import bannerImg from "./images/bannerImg.png";
 import fastFood from "./images/projects/fastFood.jpg";
 import movieDiscovery from "./images/projects/movieDiscovery.jpg";
 import kuonaTrust from "./images/projects/kuonaTrust.jpg";
-import projectThree from "./images/projects/projectThree.jpeg";
+import laptopStore from "./images/projects/laptopStore.jpg";
 import payroll from "./images/projects/payroll.png";
 import testimonialOne from "./images/testimonial/testimonialOne.png";
 import testimonialTwo from "./images/testimonial/testimonialTwo.png";
@@ -18,7 +18,7 @@ export {
     fastFood,
     movieDiscovery,
     kuonaTrust,
-    projectThree,
+    laptopStore,
     testimonialOne,
     testimonialTwo,
     quote,

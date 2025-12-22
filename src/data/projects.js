@@ -1,6 +1,6 @@
 import { fastFood } from "../assets";
 import { movieDiscovery } from "../assets";
-import { projectThree } from "../assets";
+import { laptopStore } from "../assets";
 import { kuonaTrust } from "../assets"; 
 
 export const projects = [
@@ -105,7 +105,7 @@ export const projects = [
     title: "Laptop Store E-commerce Website",
     shortDesc:
       "An eCommerce platform for laptops with payments and cart management.",
-    image: projectThree,
+    image: laptopStore,
     github: "https://github.com/yourusername/laptop-store",
     live: "https://laptop-store-demo.vercel.app",
     details: {
