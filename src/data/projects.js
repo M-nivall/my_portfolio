@@ -1,7 +1,7 @@
 import { fastFood } from "../assets";
 import { movieDiscovery } from "../assets";
 import { projectThree } from "../assets";
-import { kuonaTrust } from "../assets"; // ← add image asset
+import { kuonaTrust } from "../assets"; 
 
 export const projects = [
   {
@@ -110,7 +110,7 @@ export const projects = [
     live: "https://laptop-store-demo.vercel.app",
     details: {
       overview:
-        "A full-stack laptop eCommerce website featuring product listings, cart management, and M-PESA payments.",
+        "A full-stack laptop E-commerce website featuring product listings, cart management, and M-PESA payments.",
       features: [
         "Laptop listings with categories & pricing",
         "Redux-based cart management",
