@@ -1,4 +1,4 @@
-import { projectOne } from "../assets";
+import { fastFood } from "../assets";
 import { projectTwo } from "../assets";
 import { projectThree } from "../assets";
 
@@ -7,7 +7,7 @@ export const projects = [
     id: "fast-food-app",
     title: "Fast Food Delivery App",
     shortDesc: "A modern fast-food eCommerce & delivery mobile application.",
-    image: projectOne,
+    image: fastFood,
     github: "https://github.com/yourusername/fast-food-app",
     live: null,
     details: {
