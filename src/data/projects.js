@@ -5,7 +5,6 @@ import { kuonaTrust } from "../assets";
 import { nairobiBeauty } from "../assets";
 import { lotusFertility } from "../assets";
 
-
 export const projects = [
   {
     id: "fast-food-app",
