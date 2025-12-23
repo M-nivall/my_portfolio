@@ -64,5 +64,4 @@ const Achievement = () => {
     </motion.div>
   );
 };
-
 export default Achievement;
