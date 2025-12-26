@@ -7,6 +7,7 @@ import Title from '../layouts/Title';
 import { testimonialOne,testimonialTwo, quote, testimonialThree, testimonialFour } from "../../assets";
 
 function SampleNextArrow(props) {
+  
   const { onClick } = props;
   return (
     <div
