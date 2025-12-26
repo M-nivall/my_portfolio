@@ -187,5 +187,4 @@ function Skills() {
 </motion.div>
   )
 }
-
 export default Skills
