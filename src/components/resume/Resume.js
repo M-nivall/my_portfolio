@@ -7,6 +7,7 @@ import Achievement from './Achievement';
 import Experience from './Experience';
 
 const Resume = () => {
+  
   const [educationData, setEducationData] = useState(true);
   const [skillData, setSKillData] = useState(false);
   const [experienceData, setExperienceData] = useState(false);
