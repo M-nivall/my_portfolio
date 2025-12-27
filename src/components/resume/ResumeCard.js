@@ -36,5 +36,4 @@ function ResumeCard({title,subTitle,result,des}) {
     </div>
   )
 }
-
 export default ResumeCard
