@@ -4,6 +4,7 @@ import { FaGlobe } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 const ProjectsCard = ({ title, des, src, github, live, id }) => {
+  
   return (
     <div className="w-full p-4 xl:px-12 rounded-lg shadow-shadowOne bg-gradient-to-r from-bodyColor to-[#202327] group hover:bg-gradient-to-b hover:from-gray-900 transition-colors duration-700">
       <div className="overflow-hidden rounded-lg">
