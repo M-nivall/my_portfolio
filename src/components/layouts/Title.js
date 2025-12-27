@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Title = ({title, des}) => {
+  
   return (
     <div className='flex flex-col gap-4 font-titleFont mb-14'>
         <h3 className='text-small uppercase front-light text-designColor tracking-wide '>
