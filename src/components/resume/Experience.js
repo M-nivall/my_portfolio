@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import ResumeCard from "./ResumeCard";
 
 const Experience = () => {
+  
   return (
     <motion.div
     initial={{opacity:0}} 
