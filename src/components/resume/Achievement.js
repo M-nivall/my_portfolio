@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 import ResumeCard from "./ResumeCard";
 
 const Achievement = () => {
-  
   return (
     <motion.div
     initial={{opacity:0}} 
