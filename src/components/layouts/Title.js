@@ -12,6 +12,7 @@ const Title = ({title, des}) => {
         </h1>
   </div>
   )
+  
 }
 
 export default Title
