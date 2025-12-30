@@ -11,7 +11,7 @@ export const projects = [
     title: "Fast Food Delivery App",
     shortDesc: "A modern fast-food eCommerce & delivery mobile application.",
     image: fastFood,
-    github: "https://github.com/yourusername/fast-food-app",
+    github: "https://github.com/M-nivall/fast_food_app",
     live: null,
     details: {
       overview:
@@ -44,7 +44,7 @@ export const projects = [
     shortDesc:
       "A movie app that fetches latest movies and tracks trending searches.",
     image: movieDiscovery,
-    github: "https://github.com/yourusername/movie-app",
+    github: "https://github.com/M-nivall/React_native_movie_app",
     live: null,
     details: {
       overview:
@@ -75,7 +75,7 @@ export const projects = [
     shortDesc:
       "A mobile platform for artists to showcase artwork, apply for exhibitions, and connect with donors.",
     image: kuonaTrust,
-    github: null,
+    github: "https://github.com/M-nivall/kuona_trust_app",
     live: null,
     details: {
       overview:
@@ -108,7 +108,7 @@ export const projects = [
     shortDesc:
       "An eCommerce platform for laptops with payments and cart management.",
     image: laptopStore,
-    github: "https://github.com/yourusername/laptop-store",
+    github: "https://github.com/M-nivall/laptop_store",
     live: "https://laptop-store-demo.vercel.app",
     details: {
       overview:
@@ -141,7 +141,7 @@ export const projects = [
   shortDesc:
     "A beauty eCommerce and e-learning mobile application for products, classes, and certifications.",
   image: nairobiBeauty, // add asset
-  github: null,
+  github: "https://github.com/M-nivall/nairobi_beauty_world",
   live: null,
   details: {
     overview:
@@ -178,7 +178,7 @@ export const projects = [
   shortDesc:
     "A health-tech mobile platform supporting intended parents through the surrogacy journey.",
   image: lotusFertility, // add asset
-  github: null,
+  github: "https://github.com/M-nivall/lotus_fertility_app",
   live: null,
   details: {
     overview:
