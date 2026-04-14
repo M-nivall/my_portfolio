@@ -83,15 +83,15 @@ function Skills() {
       </motion.span>
     </div>
     <div className="overflow-x-hidden">
-      <p className='text-sm uppercase font-medium'>Google Firebase</p>
+      <p className='text-sm uppercase font-medium'>Node.js</p>
       <motion.span
        initial={{ x: "-100%", opacity: 0 }}
        animate={{ x: 0, opacity: 1 }}
        transition={{ duration: 0.5, delay: 0.5 }}
       className='w-full h-2 bgOpacity inline-flex rounded-md mt-2'>
-        <span className='w-[95%] h-full bg-gradient-to-r from-blue-600 via pink-500 to-red-500 
+        <span className='w-[75%] h-full bg-gradient-to-r from-blue-600 via pink-500 to-red-500 
         rounded-md relative'>
-          <span className='absolute -top-7 right-0'>95%</span>
+          <span className='absolute -top-7 right-0'>75%</span>
         </span>
       </motion.span>
     </div>

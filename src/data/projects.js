@@ -4,6 +4,8 @@ import { laptopStore } from "../assets";
 import { kuonaTrust } from "../assets";  
 import { nairobiBeauty } from "../assets";
 import { lotusFertility } from "../assets";
+import { bridge_talent } from "../assets";
+import { girl_dream } from "../assets";
 
 export const projects = [
   {
@@ -208,5 +210,74 @@ export const projects = [
     type: "Mobile Application",
   },
 },
+
+{
+  id: "bridge-talent-app",
+  title: "Bridge Talent Recruitment Platform",
+  shortDesc:
+    "A recruitment platform connecting employers and job seekers with job verification, application tracking, and hiring workflows.",
+  image: bridge_talent, // add asset
+  github: "https://github.com/M-nivall/bridge_talent",
+  live: null,
+  details: {
+    overview:
+      "A full-featured recruitment platform designed to streamline the hiring process by connecting employers with job seekers. The system introduces a verification layer to ensure job authenticity before publication, improving trust and quality across the platform.",
+    features: [
+      "Employer account creation and job posting",
+      "Job verification workflow by system verification officers",
+      "Public job listings after approval",
+      "Job search and application system for candidates",
+      "Applicant shortlisting and interview management",
+      "End-to-end hiring process from application to job offer acceptance",
+      "Role-based access (Employers, Applicants, Verification Officers)",
+    ],
+    techStack: [
+      "Android Studio",
+      "Java",
+      "MVVM Architecture",
+      "Retrofit (REST APIs)",
+      "RecyclerView",
+      "Firebase Authentication",
+      "Firebase Cloud Messaging",
+      "XML Layouts",
+      "PHP Backend",
+      "MySQL Database",
+      "Secure Payment Integration",
+    ],
+    type: "Recruitment Platform",
+  },
+},
+
+{
+  id: "every-girls-dream",
+  title: "Every Girl’s Dream Platform",
+  shortDesc:
+    "A social impact platform for anonymous reporting and prevention of FGM through rescue coordination, education, and counselling.",
+  image: girl_dream, // add asset
+  github: "https://github.com/M-nivall/every_girl_dream",
+  live: null,
+  details: {
+    overview:
+      "A social impact platform designed to help prevent Female Genital Mutilation (FGM) by enabling safe and anonymous reporting of at-risk cases. The system supports coordinated response efforts, awareness programs, and counselling services to protect and empower vulnerable girls.",
+    features: [
+      "Anonymous reporting of FGM risk cases",
+      "Case management and rescue coordination workflow",
+      "Assignment of response teams to reported cases",
+      "Scheduling of awareness seminars and outreach programs",
+      "Counselling support and guidance services",
+      "Secure and confidential data handling",
+      "Role-based access for admins and response teams",
+    ],
+    techStack: [
+      "Android",
+      "JavaScript / Java",
+      "REST APIs",
+      "Authentication & Authorization",
+      "Database (MySQL / Firebase)",
+      "Backend (Node.js / PHP)",
+    ],
+    type: "Social Impact Platform",
+  },
+}
 
 ];

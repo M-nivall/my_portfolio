@@ -4,6 +4,8 @@ import bannerImg from "./images/bannerImg.png";
 import fastFood from "./images/projects/fastFood.jpg";
 import movieDiscovery from "./images/projects/movieDiscovery.jpg";
 import kuonaTrust from "./images/projects/kuonaTrust.jpg";
+import bridge_talent from "./images/projects/bridge_talent.jpeg";
+import girl_dream from "./images/projects/girl_dream.jpeg";
 import laptopStore from "./images/projects/laptopStore.jpg";
 import nairobiBeauty from "./images/projects/nairobiBeauty.jpg";
 import lotusFertility from "./images/projects/lotusFertility.jpg";
@@ -21,6 +23,8 @@ export {
     fastFood,
     movieDiscovery,
     kuonaTrust,
+    bridge_talent,
+    girl_dream,
     laptopStore,
     nairobiBeauty,
     lotusFertility,
