@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Title from '../layouts/Title';
-import ResumeCard from './ResumeCard';
+
 import Education from './Education';
 import Skills from './Skills';
 import Achievement from './Achievement';
