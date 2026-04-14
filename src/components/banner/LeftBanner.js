@@ -2,7 +2,7 @@ import React from 'react'
 import { useTypewriter, Cursor } from 'react-simple-typewriter';
  import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact,FaPython,FaJava } from "react-icons/fa";
  import { IoLogoJavascript } from "react-icons/io";
-import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
+//import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
 
 const LeftBanner = () => {
     const [text] = useTypewriter({
