@@ -1,7 +1,7 @@
 import React from 'react'
 import LeftBanner from './LeftBanner';
 import RightBanner from './RightBanner';
-import cv from '../../assets/Michael_Nivah_CV.pdf';
+//import cv from '../../assets/Michael_Nivah_CV.pdf';
 
 const Banner = () => {
   return (
