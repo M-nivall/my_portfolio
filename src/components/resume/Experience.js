@@ -19,16 +19,23 @@ const Experience = () => {
         <div className="mt-6 lgl:mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
 
           <ResumeCard
-            title="IT Officer & Mobile App Developer"
-            subTitle="Nobel Lending Limited (Jan 2026 - Present)"
-            result="Nairobi"
-            des="Developing and maintaining a production mobile lending application for loan origination and repayment tracking. Integrated M-Pesa API for seamless payments, improved system uptime, and implemented performance and security enhancements."
+            title="Software Developer"
+            subTitle="Bayan Systems (Jul 2026 - Present)"
+            result="Somalia (Remote)"
+            des="Contributing as a full-stack developer on MuniCore, a multi-tenant digital revenue platform for municipal governments live across four municipalities. Collaborating on the Billing Engine and Citizen 360 profile system, built a companion mobile app for field collectors, and strengthened authentication and session security ahead of QA handoff."
           />
 
           <ResumeCard
-            title="Software Developer (Contract)"
+            title="IT Officer & Mobile App Developer"
+            subTitle="Nobel Lending Limited (Jan 2026 - May 2026)"
+            result="Nairobi"
+            des="Developed and maintained a production mobile lending application for loan origination and repayment tracking. Integrated M-Pesa API for seamless payments, improved system uptime, and implemented performance and security enhancements."
+          />
+
+          <ResumeCard
+            title="Software Developer"
             subTitle="Veriscore Limited (Sep 2025 - Jan 2026)"
-            result="Remote"
+            result="Nairobi"
             des="Co-developed a real-time credit scoring engine with optimized backend logic and database performance. Contributed to scalable system architecture and API integrations for fast financial risk evaluation."
           />
 
