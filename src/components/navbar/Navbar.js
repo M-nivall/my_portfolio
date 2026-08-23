@@ -40,8 +40,6 @@ const Navbar = () => {
             </li>
           ))}
 
-
-
         </ul>
 
         {/* MOBILE MENU ICON */}
