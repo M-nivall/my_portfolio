@@ -50,7 +50,7 @@ const Navbar = () => {
           <FiMenu />
         </span>
 
-        {/* MOBILE MENU */}
+        {/* MOBILE MENU  */}
         {showMenu && (
           <div className='w-[80%] h-screen overflow-scroll absolute top-0 left-0 bg-gray-900 p-4 scrollbar-hide'>
 
