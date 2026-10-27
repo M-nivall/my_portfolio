@@ -19,10 +19,17 @@ const Experience = () => {
         <div className="mt-6 lgl:mt-14 w-full h-auto border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
 
           <ResumeCard
+            title="Full-Stack Software Engineer"
+            subTitle="Samarik Tech LLC (Oct 2026 - Present)"
+            result="Texas, USA (Remote)"
+            des="Develop, test, and maintain production software across backend and frontend codebases within collaborative Git-based workflows. Contribute to the KBills platform and related initiatives, and prepare technical documentation covering implementation details, workflows, and project changes."
+          />
+
+          <ResumeCard
             title="Software Developer"
-            subTitle="Bayan Systems (Jul 2026 - Present)"
+            subTitle="Bayan Systems (May 2026 - Oct 2026)"
             result="Somalia (Remote)"
-            des="Contributing as a full-stack developer on MuniCore, a multi-tenant digital revenue platform for municipal governments live across four municipalities. Collaborating on the Billing Engine and Citizen 360 profile system, built a companion mobile app for field collectors, and strengthened authentication and session security ahead of QA handoff."
+            des="Contributed as a full-stack developer on MuniCore, a multi-tenant digital revenue platform for municipal governments live across four municipalities. Collaborated on the Billing Engine and Citizen 360 profile system, built a companion mobile app for field collectors, and strengthened authentication and session security ahead of QA handoff."
           />
 
           <ResumeCard
