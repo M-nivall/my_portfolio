@@ -45,7 +45,7 @@ function Footer() {
                 </li>
                 <li>
                  <span className="w-full text-md cursor-pointer">
-                    Watsapp: +2547 454 454 59
+                    WhatsApp: +254745 445 459
                   </span>
                 </li>
               </ul>
